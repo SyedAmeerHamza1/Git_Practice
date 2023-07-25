@@ -7,3 +7,11 @@ def multiplication(a,b,c):
 
 def division(a,b):
     return a/b
+
+
+def subtraction(a,b):
+    return a-b
+
+def Poweron(a,b):
+    return a**b
+
